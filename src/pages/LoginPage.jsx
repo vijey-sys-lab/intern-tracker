@@ -49,7 +49,7 @@ export default function LoginPage() {
         </p>
 
         <p style={{ marginTop: 24, fontSize: 12, color: "var(--text3)" }}>
-          Powered by Devverse · UDYAM-TN-24-0155140
+          Powered by Devverse
         </p>
       </div>
     </div>
